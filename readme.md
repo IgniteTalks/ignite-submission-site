@@ -2,6 +2,8 @@
 
 This submission site is designed to elicit presentation proposals from Ignite presenters.
 
+![example from Ignite Sydney](http://i.imgur.com/QaqiuKv.png "Example from Ignite Sydney")
+
 #### Why not just use a Google form?
 
 As your Ignite gets more popular, you may find that you get more submissions from people who've never attended your event. They may be semi-professional speakers who submit proposals to speak _everywhere_.
@@ -22,7 +24,7 @@ If presenters can't be bothered to click through 4 short pages, they probably do
 - search for `CHANGE_ME` and change to a meaningful value
 - see the Social Media section at the top of the index.html file and make any changes as necessary. Use these links to test how the page will look on [Facebook](https://developers.facebook.com/tools/debug/) and [Twitter](https://cards-dev.twitter.com/validator)
 - create a form in [Google Drive](https://drive.google.com), and add the questions you want to ask of your presenters:
-![example Google form](http://i.imgur.com/JOPSizz.png "Example google form")
+![example Google form](http://i.imgur.com/JOPSizz.png "Example Google form")
 - update the section `GOOGLE_FORM_LINK` in page3.html with the URL to the Google form
 - upload the entire directory to your web server. A suggestion is to make a subdirectory such as http://IgniteXYZ.com/submit
 - share the link http://IgniteXYZ.com/submit with your potential presenters
