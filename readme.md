@@ -29,3 +29,5 @@ If presenters can't be bothered to click through 4 short pages, they probably do
 - upload the entire directory to your web server. A suggestion is to make a subdirectory such as http://IgniteXYZ.com/submit
 - share the link http://IgniteXYZ.com/submit with your potential presenters
 - the submissions will go into the Google form (you can set a notification to email you when they arrive)
+
+This content is shared under the MIT license.
